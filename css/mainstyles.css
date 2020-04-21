@@ -1,0 +1,155 @@
+    
+.canvas{
+    position: relative;
+    background-color: darkslategray;
+    width: 635px;
+    height: 630px;
+    z-index: -1;
+}
+.div1{
+    background-color: darkgray;
+    position: absolute;
+    left : 10px;
+    top : 10px;
+    width: 100px;
+    height: 200px;
+    margin : 5px;
+}
+.div2{
+    background-color:white;
+    position: absolute;
+    left : 115px;
+    top : 10px;
+    width: 100px;
+    height: 200px;
+    margin : 5px;
+}
+.div3{
+    background-color:red;
+    position: absolute;
+    left : 220px;
+    top : 10px;
+    width: 205px;
+    height: 305px;
+    margin : 5px;
+}
+.div4{
+    background-color:yellow;
+    position: absolute;
+    left : 430px;
+    top : 10px;
+    width: 200px;
+    height: 100px;
+    margin : 5px;
+}
+.div5{
+    background-color:blue;
+    position: absolute;
+    left : 430px;
+    top : 115px;
+    width: 200px;
+    height: 200px;
+    margin : 5px;
+}
+.div6{
+    background-color:white;
+    position: absolute;
+    left : 10px;
+    top : 215px;
+    width: 205px;
+    height: 100px;
+    margin : 5px;
+}
+.div7{
+    background-color:white;
+    position: absolute;
+    left : 10px;
+    top : 320px;
+    width: 205px;
+    height: 100px;
+    margin : 5px;
+}
+.div8{
+    background-color:white;
+    position: absolute;
+    left : 220px;
+    top : 320px;
+    width: 205px;
+    height: 100px;
+    margin : 5px;
+}
+.div9{
+    background-color:white;
+    position: absolute;
+    left : 430px;
+    top : 320px;
+    width: 200px;
+    height: 100px;
+    margin : 5px;
+}
+
+.div10{
+    background-color:black;
+    position: absolute;
+    left : 10px;
+    top : 425px;
+    width: 205px;
+    height: 200px;
+    margin : 5px;
+}
+.div11{
+    background-color:darkgrey;
+    position: absolute;
+    left : 220px;
+    top : 425px;
+    width: 100px;
+    height: 200px;
+    margin : 5px;
+}
+.div12{
+    background-color : white;
+    position: absolute;
+    left : 325px;
+    top : 425px;
+    width: 100px;
+    height: 200px;
+    margin : 5px;
+}
+.div13{
+    background-color :red;
+    position: absolute;
+    left : 430px;
+    top : 425px;
+    width: 200px;
+    height: 200px;
+    margin : 5px;
+}
+#divMain{
+    width: 630px;
+    height: 620px;
+    background-color: darkslategray;
+    padding: 10px 0 0 10px;;
+}
+.yellow {
+    background-color: yellow;
+    }
+    
+    .grey {
+    background-color: grey;
+    }
+    
+    .red {
+    background-color: red;
+    }
+    
+    .white {
+    background-color: white;
+    }
+    
+    .blue {
+    background-color: blue;
+    }
+    
+    .black {
+    background-color: black;
+    }
